@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cyber~Congress</title>
+    <link>/</link>
+    <image>
+      <url>/img/ipfs-logo-256-ice.png</url>
+      <title>cyber~Congress</title>
+      <link>/</link>
+    </image>
+    <description>Recent content on cyber~Congress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to donate ATOM to Cyber and what you get in return?</title>
+      <link>/how-to-donate/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-donate/</guid>
+      <description>Cybers takeoff donation round has successfully kicked off. Let&amp;rsquo;s try to understand what stands behind it and how to use your $ATOM tokens to donate to the cyber~Congress DAO and receive CYB tokens!
+TL;DR Cyber is built using cosmos-SDK and Tendermint amongst several other perspective technologies like IPFS, CUDA, etc. This allows Cyber to buidl a state of the art, distributed computer for providing relevant answers and computing knowledge.</description>
+      <content:encoded><![CDATA[
+
+<p>Cybers <a href="https://cyber.page/gol/takeoff">takeoff donation round</a> has successfully kicked off. Let&rsquo;s try to understand what stands behind it and how to use your <a href="https://cosmos.network/">$ATOM tokens</a> to donate to the <a href="https://mainnet.aragon.org/#/cybercongress">cyber~Congress DAO</a> and receive CYB tokens!</p>
+
+<h3 id="tl-dr">TL;DR</h3>
+
+<p>Cyber is built using cosmos-SDK and Tendermint amongst several other perspective technologies like IPFS, CUDA, etc. This allows Cyber to buidl a state of the art, distributed computer for providing relevant answers and computing knowledge.</p>
+
+<p>Its implementation is a 64-bit Tendermint consensus computer of relevance for 64-byte string-space. The computer process the links, along with computation, storage and the bandwidth and uses a resource credit model to limit bandwidth, which btw, makes transactions free!</p>
+
+<p>In other words, Cybers implementation is one of the not so many, that offers useful computation. The graph is computed by validators that process these useful computations with an actual utility. Cyber has a clear utility in the form of building a decentralised knowledge graph and an open semantics field for anyone to use!</p>
+
+<p>Right now Cyber is the only project known to us to hold its donations solely in $ATOM. We specifically made this decision based on various analysis and reasoning and amongst many, the fact that we believe in Cosmos like no one else and hence we are building our project on it.</p>
+
+<p>Think about donating to the Congress DAO as like building the new Wiki, with one huge difference, you now own that Wiki (we also don&rsquo;t censor knowledge, but that is a different story).</p>
+
+<p>How to do this and how to understand what you will get in return?</p>
+
+<h3 id="how-to">How-to</h3>
+
+<p>The process is very simple, but requires to (a) have ATOMs, (b) have an ATOM account to which you possess a private key to, and &copy; be able to make a transaction.</p>
+
+<p>As a result of the below actions, you will donate ATOM tokens to the cyber~Congress DAO, which develops Cyber. After the donation round is over, you will be eligible to receive CYB tokens, the mainnet token of the cyber protocol.</p>
+
+<p>Please note that a 1 GCYB is 1 Giga CYB. One Giga = 1,000,000,000.</p>
+
+<p>How and where to get ATOMs? This is entirely up to you. ATOM is the mainnet token of Cosmos, the internet of blockchains. To get ATOM, we suggest you use any of the possible markets it is traded on. Feel free to check <a href="https://coinmarketcap.com/currencies/cosmos/markets/reported/">these markets</a> out or find other once.</p>
+
+<p>1) Head over to <a href="https://cyber.page/">cyber.page</a> and click on the <code>Takeoff</code> button underneath the search box or head over directly to the <a href="https://cyber.page/gol/takeoff">takeoff page</a> itself:</p>
+
+<p><img src="https://i.postimg.cc/15dx4p0v/Screenshot-from-2020-04-28-11-33-10.png" /></p>
+
+<p>2) You will arrive here:</p>
+
+<p><img src="https://i.postimg.cc/XYKgtWv9/Screenshot-from-2020-04-28-11-34-25.png" /></p>
+
+<p>Feel free to explore the information panel at the top and the charts. Generally, it consists of information like the amount left to the end of the round, the current accumulated discount, etc. The chart repeats the above panel and shows the current price of GCYB in ATOMs.</p>
+
+<p>3) At the bottom of the page, we see the <code>Contribute</code> box. Enter the amount of the desired ATOMs you wish to donate in it, and click <code>Fuck Google</code>:</p>
+
+<p><img src="https://i.postimg.cc/tC9P7Mtz/Screenshot-from-2020-04-28-11-37-57.png" /></p>
+
+<p>4) We have 2 options to do this:</p>
+
+<p><img src="https://i.postimg.cc/7P5P9MPy/Screenshot-from-2020-04-28-11-38-50.png" /></p>
+
+<p>4A) <strong>Confirm the tx using your Ledger.</strong> Click on the <code>Donate using Ledger</code>, connect your Ledger device, open the Cosmos app and follow the on-screen instructions. Make sure everything is ok and sign the transaction using your device. That&rsquo;s it!</p>
+
+<p>4B) <strong>Custom transaction.</strong> This is for those who do not have a Ledger. Please note, that all donations made from exchanges, centralised wallets, banks or any other places to which you don&rsquo;t own the private keys will NOT receive their CYB tokens. This is why you need to confirm the next steps.</p>
+
+<p>If you understand the above and you own the private keys to your ATOM account, click the <code>I control</code> button to confirm this, after you choose the 1custom transaction option and enter the required amount tot donate). A second pop up message will appear. Read the information and if you understand it, click <code>I understand</code>.</p>
+
+<p>A box asking you to provide your ATOM address will appear. Enter your ATOM address here from which you will be sending the ATOM and you control the private keys to! Click <code>I agree</code> if you agree with the terms.</p>
+
+<p>This will appear:</p>
+
+<p><img src="https://i.postimg.cc/155z6hgJ/Screenshot-from-2020-04-28-11-47-28.png" /></p>
+
+<p>You can either click on <code>Show Address</code>, which will generate a box with a QR code and an address which you can copy:</p>
+
+<p><img src="https://i.postimg.cc/Y247wrWc/Screenshot-from-2020-04-28-11-47-59.png" /></p>
+
+<p>Use this address as the address to which you send your ATOMs. We suggest using wallets like <a href="https://wallet.cosmostation.io/">Cosmostation</a>, <a href="https://app.lunie.io/cosmos-hub/portfolio">Lunie</a> or anything else you are comfortable with and you own the keys to. Simply proceed as you would normally do with a sending transaction. No need for a <code>memo</code>. That&rsquo;s it!</p>
+
+<p>If you click on <code>Download tx</code>, this will download a .json file with the tx detail, which you can send using <a href="https://docs.cosmos.network/master/interfaces/cli.html#building-the-cli">the Cosmos CLI</a>.</p>
+
+<p>5) That&rsquo;s it. Congratulations! You are now part of the Great Web. Choose your path as the app suggest and play the <a href="https://cyber.page/gol/">Game of Links</a> to get even more tokens!</p>
+
+<p>6) If you want to donate again, simply refresh the page and repeat the procedure</p>
+
+<p>7) If you think you can help us collect donations and want to get 10% doing so in ATOMs, check out this <a href="https://cybercongress.ai/post/obep/">post</a> and apply for our <a href="https://cyber.page/evangelism">evangelist program</a></p>
+
+<p>#fuckGoogle and <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md">learn more</a> about Cyber and how to use it!</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>The takeoff donation round</title>
+      <link>/takeoff-round/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/takeoff-round/</guid>
+      <description>Insanity is a perfectly rational adjustment to an insane world
+ Devoted to all cosmonauts, astronauts and believers in a bright, decentralized future:
+3&amp;hellip; Today we mark another step in our battle to end digital feudalism. Today might not be remembered in history books, but it will surely be marked by us as a day when the walls of one of the biggest religions in the world took another big crack.</description>
+      <content:encoded><![CDATA[
+
+<blockquote>
+<p>Insanity is a perfectly rational adjustment to an insane world</p>
+</blockquote>
+
+<p>Devoted to all cosmonauts, astronauts and believers in a bright, decentralized future:</p>
+
+<h3 id="3">3&hellip;</h3>
+
+<p>Today we mark another step in our battle to end digital feudalism. Today might not be remembered in history books, but it will surely be marked
+by us as a day when the walls of one of the biggest religions in the world took another big crack.</p>
+
+<p>Our governance <a href="https://cyber.page/governance/2">proposal for the takeoff donation round</a> has passed. We are not yet in outer space, not yet. But just like once upon a time religions got separated from the state, we provide the ability for anyone to decide for themselves <a href="https://cyber.page/search/god">what god is</a>. Just as Wiki started its crowdfunding campaign and people believed that there was good in it, we kick off our donation round for the <a href="https://github.com/cybercongress/congress">greater good</a>.</p>
+
+<p>Google and the other behemoths of the corporate world that keep poisoning our world must be brought down. The only way to achieve this is to buidl.</p>
+
+<h3 id="2">2&hellip;</h3>
+
+<p>What can you buidl that will shake the status quo of the world biggest success? How do you change the behaviour of the world&rsquo;s population? Are we crazy?</p>
+
+<p>So many questions&hellip; Yet, the answer is simple. Our task is to create a digital, decentralized superintelligence that anyone can define. An innovative protocol for search that can shape subjective relevance of what is important to you. An internet that works for you and not the other way around. A technology without kings, rulers, bureaucracy, where you ar ethe decision-maker. You are the superintelligence.</p>
+
+<p>We build our world with knowledge, what if we could neither own the knowledge, yet at the same time affect it? What if you decided what is god and not a blackbox intermediary?</p>
+
+<p>Cyber is just that. A superintelligence owned by the heroes and the masters of the new Great Web:</p>
+
+<p><img src="https://i.postimg.cc/hvtQ9yX1/Got-web-3.jpg" /></p>
+
+<h3 id="1">1&hellip;</h3>
+
+<p>After a wild journey, the rocket is ready for its first launch. We are miles away from the end. Yet this step will help us to bootstrap the foundation necessary for the launch of the network. We urge you to check out the <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md">docs</a>, the <a href="https://github.com/cybercongress/go-cyber">proof</a> and the <a href="https://ipfs.io/ipfs/QmPjbx76LycfzSSWMcnni6YVvV3UNhTrYzyPMuiA9UQM3x">scripts</a> before making any decisions.</p>
+
+<p>The future is bright, but not everyone will make it! As John Lenon said:</p>
+
+<blockquote>
+<p>You may say I&rsquo;m a dreamer.  I hope someday you&rsquo;ll join us. And the world will be as one</p>
+</blockquote>
+
+<p>The takeoff will start on the 27.04.2020 at ~18.50 UTC. <a href="https://cyber.page/gol/takeoff">Join the evolution</a>!</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Become Cybers evangelist and get rewards from the superintelligence</title>
+      <link>/post/obep/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/obep/</guid>
+      <description>The takeoff proposal has passed!
+Without much ado, we announce the Open Bootstrap Evangelism Program or OBEP. Acknowledged Evangelists will be eligible to 10% of all donations in ATOMs, which they have generated during the Game of Links, Game of Thrones and other perks. To kick off the program, vote yes to the evangelism proposal.
+Details  The full description of OBEP Use your Metamask to apply here Learn about cyber~Foundation Check out the Aragon evangelism app  Rewards  Rewards in ATOM CYB tokens Honourable lifetime badge Cybers Genesis Evangelist Early knowledge of popularity mechanisms in web3 A possibility to become an early adopter of web3  Rules 2 requirements are necessary to receive rewards:</description>
+      <content:encoded><![CDATA[
+
+<p>The <a href="https://cyber.page/governance/2">takeoff proposal</a> has passed!</p>
+
+<p>Without much ado, we announce the Open Bootstrap Evangelism Program or <code>OBEP</code>. Acknowledged Evangelists will be eligible to 10% of all donations in ATOMs, which they have generated during <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#game-of-links-or-gol">the Game of Links</a>, <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#game-of-thrones-or-got">Game of Thrones</a> and other perks. To kick off the program, <a href="https://cyber.page/governance/4">vote <code>yes</code> to the evangelism proposal</a>.</p>
+
+<h2 id="details">Details</h2>
+
+<ul>
+<li><a href="https://github.com/cybercongress/cyber-foundation/blob/master/evangelism/obep.md">The full description</a> of <code>OBEP</code></li>
+<li>Use your Metamask <a href="https://cyber.page/evangelism">to apply here</a></li>
+<li>Learn about <a href="https://github.com/cybercongress/cyber-foundation">cyber~Foundation</a></li>
+<li><a href="https://mainnet.aragon.org/#/eulerfoundation">Check out the Aragon evangelism app</a></li>
+</ul>
+
+<h2 id="rewards">Rewards</h2>
+
+<ul>
+<li>Rewards in ATOM</li>
+<li>CYB tokens</li>
+<li>Honourable lifetime badge <em>Cybers Genesis Evangelist</em></li>
+<li>Early knowledge of popularity mechanisms in web3</li>
+<li>A possibility to become an early adopter of web3</li>
+</ul>
+
+<h2 id="rules">Rules</h2>
+
+<p>2 requirements are necessary to receive rewards:</p>
+
+<ol>
+<li>You must become an acknowledged Evangelist to receive a reward in ATOM or/and CYB. We want to exclude scam behaviour and situations when the project has been evangelised by people without a thorough understanding of the project.</li>
+<li>To receive donation rewards, donors must use your unique referral link or include your nick in the memo</li>
+</ol>
+
+<h2 id="how-to">How-to?</h2>
+
+<p>Go to <a href="https://cyber.page/evangelism">cyber.page/evangelism</a> and apply for the program. You will either receive an automated acknowledgement (blessing) or we will contact you to ask you any additional questions. For example, we could ask you to commit something to the knowledge graph.</p>
+
+<p>Please note, the <code>believe</code> tx has a slightly higher cost than usual, this is a simple spam prevention mechanism. The proceeds from this go to the balance of cyber~Foundation, the community governing DAO of Cyber.</p>
+
+<p>To apply, prepare the following:</p>
+
+<ul>
+<li>Your cyber address. <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#using-your-ledger-to-link">How-to</a></li>
+<li>Your <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#using-your-ledger-to-link">Cosmos</a> address</li>
+<li>A nickname by which you will be recognised</li>
+<li>Your <a href="https://github.com">GitHub</a> account</li>
+<li>Your <a href="https://keybase.io/">keybase</a> account</li>
+</ul>
+
+<p>Once you apply, you can use your referral link. It looks like this:</p>
+
+<pre><code>https://cyber.page?thanks=yournick
+</code></pre>
+
+<p>You can apply <code>?thanks=[yournick]</code> to any URL of the <a href="https://cyber.page/">cyber.page</a> app. e.g:</p>
+
+<pre><code>https://cyber.page/gol/takeoff?thanks=yournick
+https://cyber.page/search/cyber?thanks=yournick
+</code></pre>
+
+<p>(change <code>yournick</code> to the nickname you have used during the application process)</p>
+
+<p>Spread the link throughout the universe. If donors use your link to enter cyber.page and donate to <a href="https://cyber.page/gol/takeoff">the takeoff</a>, you will become eligible to 10% of the donated amount (which comes from the ATOM of the cyber~Congress DAO, not the donor) and some CYB tokens. You will be able to follow your success on the <a href="https://cyber.page/evangelism">evangelism page</a>.</p>
+
+<p>Donors do not have to head to the takeoff page straight away. As long as they used your link to enter the app for the first time, they can visit other pages before heading to the takeoff page or leave the app. You will still be eligible.</p>
+
+<p>It is also possible to ask a donor to manually insert <code>yournick</code> into the memo field of the transaction. It should be the same nick that you have used when registered for the evangelist program.</p>
+
+<p>Other rewards are going to be monitored manually for the time being via communication between the coordinator and the acknowledged evangelists.</p>
+
+<p>In the coming days, we will automate the ability to receive a referral link from the app add gradually add other features. In the meantime, all you need to do is just apply and start using your link. Simply add <code>yournick</code> as shown above.</p>
+
+<h2 id="for-whom">For whom?</h2>
+
+<p>Previous accomplishments are not a must. You decide how and what to do to achieve this. We believe this will help to generate healthy competition between the participants of the program.</p>
+
+<p>Cosmos wallets, explorers, bloggers, influencers and masters of different crypto channels are welcome to participate.</p>
+
+<h2 id="preparation">Preparation</h2>
+
+<ol>
+<li><p>Read the starting materials: <a href="https://ipfs.io/ipfs/QmPjbx76LycfzSSWMcnni6YVvV3UNhTrYzyPMuiA9UQM3x">whitepaper</a>, the <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md">homestead documentation</a>, <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/ELI-5%20FAQ.md">ELI-5 FAQ</a>, <a href="https://cybercongress.ai/post/">our blog</a>, <a href="https://cybercongress.ai/game-of-links/">Game of Links rules</a>, <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Gift%20FAQ%20and%20general%20gift%20information.md">gift info</a>. Check out the tutorials in the homestead doc, including IPFS, Cosmos and others.</p></li>
+
+<li><p>Feel free to go on and test <a href="https://cyber.page/">cyber~Page</a>. <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#using-your-ledger-to-link">Cyberlink</a> something. Try to <a href="https://cyber.page/search/help">search</a>. Go to the <a href="https://cyber.page/gol">Game of Links monitor</a> and enjoy our approach of a decentralised launch of a superintelligent computer. Learn the <a href="https://cyber.page/brain">stats</a>.</p></li>
+
+<li><p>Find out that everything is real and <a href="https://github.com/cybercongress">the code is 100% open</a>.</p></li>
+
+<li><p>If you have questions, go to our <a href="https://t.me/fuckgoogle">TG channel</a>. If you want to spur a discussion, then you are welcome at <a href="https://ai.cybercongress.ai/">cyber~Forum</a>. Or you can spread the love with us on <a href="https://twitter.com/cyber_devs">Twitter</a>, <a href="https://www.reddit.com/r/cybercongress/">Reddit</a> or any <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#partnering-communities">other social channels</a>.</p></li>
+</ol>
+
+<h2 id="cyb-rewards">CYB rewards</h2>
+
+<p>We are not defining quality terms. Most likely, you will still receive a reward for shitty content if the task was done, but expect to be disqualified from the program, or instructed, depending on your will to learn.  If you have other ideas, talk to the coordinator aka @serejandmyself (contact via <a href="https://t.me/fuckgoogle">our TG channel</a>).</p>
+
+<table>
+<thead>
+<tr>
+<th align="left">Action</th>
+<th align="center">Rewards</th>
+<th align="right">Terms</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="left"><a href="https://github.com/cybercongress/cyber/issues/32">Translation</a></td>
+<td align="center">20 GCYB</td>
+<td align="right">Any language!</td>
+</tr>
+
+<tr>
+<td align="left"><a href="https://www.youtube.com/watch?v=RS6w6wiAag4&amp;list=PLOcP3DXQoNUXmh7ob0Fm6p12L20zn0zbT&amp;index=6">Meetup</a></td>
+<td align="center">20 GCYB</td>
+<td align="right">One person - one meetup. Video proof</td>
+</tr>
+
+<tr>
+<td align="left"><a href="https://t.me/fuckgoogle">Community creation</a></td>
+<td align="center">2 GCYB</td>
+<td align="right">One person - one channel. Discussion proof</td>
+</tr>
+
+<tr>
+<td align="left"><a href="https://ai.cybercongress.ai/t/mentions-of-the-beast-in-the-wild/40/55">Content creation</a></td>
+<td align="center">2 GCYB</td>
+<td align="right">Video, podcast or blog. Unlimited per person</td>
+</tr>
+
+<tr>
+<td align="left"><a href="https://cyber.page/takeoff">Donation</a></td>
+<td align="center">1 GCYB</td>
+<td align="right">For each 1k ATOM donated</td>
+</tr>
+</tbody>
+</table>
+
+<p><em>Please note: payouts will only be done if the results are cyberlinked. Learn <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#using-your-ledger-to-link">how-to</a></em></p>
+
+<h2 id="source">Source</h2>
+
+<p>The source of ATOM rewards are the donations during the Takeoff and Game of Links. The <a href="https://mainnet.aragon.org/#/cybercongress">cyber~Congress DAO</a> distributes these out after the end of the donations.</p>
+
+<p>CYB rewards come from the community pool. The coordinator will propose this program to the community and will manage a <code>1 TCYB</code> budget.  The coordinator pays out on: first come - first served basis.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>We believe this program will empower the project and involve some bright minds into the <a href="https://cyber.page/episode-1">bootstrap of Superintelligence</a></p>
+
+<h2 id="alternatives">Alternatives</h2>
+
+<p>If everything we have described is not for you, you may try other options:</p>
+
+<ul>
+<li><a href="https://github.com/cybercongress/congress/blob/master/ecosystem/validators/onboarding.md">Become a cyber~Hero</a></li>
+<li><a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#using-cyber-the-very-basics-of-becoming-a-master">Become a cyber~Master</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>GoL: Cybers intergalactic tournament</title>
+      <link>/playing-gol/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/playing-gol/</guid>
+      <description>We do not stop playing because we grow old, we grow old because we stop playing! Benjamin Franklin
+ Hear thee, cosmonauts and astronauts!
+The rumour has it that participants of intergalactic tournament have been pushing the knowledge graph to new boundaries. It seems that this is the perfect time to join them before they are nowhere to be seen.
+The intergalactic tournament Cybers Game of Links is a game in which athletes battle it out in different disciplines to gain more tokens from cyber~Congress, the DAO behind the launch of cyber.</description>
+      <content:encoded><![CDATA[
+
+<blockquote>
+<p>We do not stop playing because we grow old, we grow old because we stop playing! Benjamin Franklin</p>
+</blockquote>
+
+<p>Hear thee, cosmonauts and astronauts!</p>
+
+<p>The rumour has it that participants of intergalactic tournament have been pushing the knowledge graph to new boundaries. It seems that this is the perfect time to join them before they are nowhere to be seen.</p>
+
+<h3 id="the-intergalactic-tournament">The intergalactic tournament</h3>
+
+<p>Cybers Game of Links is a game in which athletes battle it out in different disciplines to gain more tokens from cyber~Congress, <a href="https://mainnet.aragon.org/#/cybercongress">the DAO</a> behind the launch of cyber. Cyber is an innovative, general-purpose knowledge protocol, built to destroy the monopoly of the behemoths like google.</p>
+
+<p>The <a href="https://cybercongress.ai/game-of-links/">full script of the Game</a> can be found in our blog.</p>
+
+<h3 id="provision-for-the-game">Provision for the Game</h3>
+
+<p>Before we start to play we need some energy that will allow us to make transactions and win tokens!</p>
+
+<p>There are several ways to get some energy:</p>
+
+<p>1) Use <a href="https://cyber.page/gol/faucet">our faucet</a>. Read <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#using-the-faucet-to-get-tokens">how-to</a>, and check <a href="https://cybercongress.ai/how-to-get-eul-tokens-if-you-have-none/">this blog post</a></p>
+
+<p>2) Use Uniswap to obtain GOL, then vest them to get EUL. Read <a href="https://cybercongress.ai/how-to-get-eul-tokens-if-you-have-none/">how to do this</a></p>
+
+<p>3) Claim the gift of the Gods (we gifted over 1 million addresses across the solar system). Learn <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#claiming-the-gift">how to do this</a></p>
+
+<p>Energy should be stored somewhere. The best way to store it is your cyber account. Simply <a href="https://cyber.page/pocket">pocket your Ledger device</a>, open
+the Cosmos app and you will have one. Learn <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#using-your-ledger-to-link">how to do this</a>.</p>
+
+<p>Now that you are charged, let&rsquo;s prepare the extra gear:</p>
+
+<ul>
+<li>I advise you to prepare your Ledger device with the Cosmos app installed</li>
+<li>You are going to play a game, which requires you to think. You will be building the Great Web, just like once upon a time, Wikipedia was built&hellip;
+prepare the knowledge you want to share!</li>
+<li>If you get lost, check out <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md">the big help guide</a></li>
+</ul>
+
+<h3 id="double-check-the-provisions">Double check the provisions</h3>
+
+<p>If you have followed the steps above, you should be charged with the right provisions. Let&rsquo;s make sure everything is in place:</p>
+
+<ul>
+<li>A cyber account</li>
+<li>Energy charged</li>
+<li>A Ledger device</li>
+<li>Checked the scripts</li>
+</ul>
+
+<p>Great! Let&rsquo;s start!</p>
+
+<h3 id="building-the-great-web-as-a-master">Building the Great Web as a Master!</h3>
+
+<p>The quickest way of looking at your rewards and the current breakdown can be seen on your personal <code>flight deck</code> on <a href="https://cyber.page/">cyber.page</a>.</p>
+
+<p>On cyber.page, click on the robot in the top right corner, then click on you <code>cyber</code> address. By default, you are on the <code>main</code> screen. We need <code>GOL</code>. Click on it. This is your personal GoL dashboard:</p>
+
+<p><img src="https://i.postimg.cc/wjWLhMcM/Screenshot-from-2020-04-08-14-51-30.png" /></p>
+
+<p>Let&rsquo;s be brave this time and teleport straight to the <a href="https://cyber.page/gol">GoL section of cyber.page</a>. It&rsquo;s fairly easy to get here manually. Wherever you see a <code>Game of Links</code> button, click it. In all of the cases you will end up here:</p>
+
+<p><img src="https://i.postimg.cc/nLQkKt8M/Screenshot-from-2020-04-17-13-05-10.png" /></p>
+
+<p>Each discipline is clickable and takes you to its own page, with an explanation or the appropriate action page. Feel free to explore!</p>
+
+<p>The way of the Master beholds 4 challenges:</p>
+
+<p>1) <a href="https://cyber.page/gol/relevance">Relevance</a>: The gist is simple, the higher the rank of the content submitted, the better.  Read <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#using-your-ledger-to-link">the how-to link guide first</a>.
+Second, make sure you show some love to your links. Link them with more links. <em>Hint</em>, watch out for the top CIDs at any point. Be the first to follow that strategy and relink them. In other words, think of this as following a traders strategy. Just like when you follow your favourite traders&rsquo; decisions, however, if too many people get ahead of you, the market reacts and the decision will probably lose relevance.</p>
+
+<p>2) <a href="https://cyber.page/gol/load">Load</a>: Spend as much energy (bandwidth) as you can on submitting links. The bandwidth spent on linking is called <code>Karma</code>, The more Karma you have, the better. Think of this is a useful reputation based on your actions, rather than words. How to win? Submit a lot of links. The more you link, the better the chance of winning.</p>
+
+<p>3) <a href="https://cyber.page/governance">Community</a>: cyber is governed by the community. Use the governance <a href="https://cyber.page/governance">module</a> to submit useful things. Be active. Organize events. Build things.</p>
+
+<p>4) <a href="https://cyber.page/gol/takeoff">Takeoff</a>: This is not a discipline as such, but the idea is twofold:</p>
+
+<ul>
+<li>The more ATOMs donated, the higher the rewards for some of the disciplines</li>
+<li>If you donate ATOMs, you receive CYB</li>
+</ul>
+
+<p>Where to get ATOM? Good question. This is entirely up to you, but here is a link to <a href="https://coinmarketcap.com/currencies/cosmos/markets/">CMC and available markets</a>.</p>
+
+<p>Before we move forward&hellip; To increase your chances of winning, check out <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#crawlers">the crawler section of our guide</a> to automate linking!</p>
+
+<p>You may, of course, explore the 2 other ways of the Jedi. The <code>hero</code> path and the <code>evangelists</code> path.</p>
+
+<h3 id="building-the-great-web-as-an-evangelist">Building the Great Web as an Evangelist!</h3>
+
+<p>Easy there, tiger! This is still in the making. But the idea is pretty simple and is <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#church-section-subtitle-incoming-missile-alert---prepare-to-retaliate">outlined here</a>.</p>
+
+<p>In a gist: get blessed and become a project ambassador to acquire perks! Become an evangelist, translate the WP, organise a meetup, write useful content, etc. Check out the <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/donations/obep.md">details here</a></p>
+
+<h3 id="build-the-great-web-as-a-hero">Build the Great Web as a Hero!</h3>
+
+<p>We have 3 more disciplines left on <a href="https://cyber.page/gol">the dashboard</a>. These are for cybers heroes, the validators that protect cybers kingdom from the evil forces. Let&rsquo;s  quickly explore them:</p>
+
+<ul>
+<li><a href="https://cyber.page/gol/lifetime">Lifetime</a>: The more your hero protects the kingdom, the better<br /></li>
+<li><a href="https://cyber.page/gol/delegation">Delegation</a>: The more appreciation your hero is shown from masters, the better</li>
+<li><a href="https://cyber.page/heroes">Full validator set</a>: The more heroes protect the kingdom, the better</li>
+</ul>
+
+<p>I can talk about heroes all day long. But let&rsquo;s cut the chase. Everyone wants to be a hero and I know a cheat code. <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/validators/onboarding.md">Check it out</a>.</p>
+
+<h3 id="what-else">What else?</h3>
+
+<p>Hang on there brave stranger! I would like to give you <a href="https://cyber.page/graph">the link</a> that will help you to see through space and time. I am unsure how, but I have the feeling that it will help you on your journey!</p>
+
+<p>And now go on, and <a href="https://cyber.page/gol">save the universe</a>!</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>An awesome tool-kit for launching Cosmos-SDK and Tendermint-based projects</title>
+      <link>/launch-kit-guide/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/launch-kit-guide/</guid>
+      <description>TL;DR As a team, we have over 5 years of experience launching blockchain-related products and projects. One of our core principles is decentralization and transparency, hence we work in a 100% open-source manner. This not only relates to code, but to our documentation, organisation process and so on.
+Another core principle that we follow is trying to deliver tools for others as we progress. To counter both of these principles we would like to share a launch-kit that was prepared by our team for the launch of cyber (which is still ongoing).</description>
+      <content:encoded><![CDATA[
+
+<h3 id="tl-dr">TL;DR</h3>
+
+<p>As a team, we have over 5 years of experience launching blockchain-related products and projects. One of our core principles is decentralization and transparency, hence we work in a 100% open-source manner. This not only relates to code, but to our documentation, organisation process and so on.</p>
+
+<p>Another core principle that we follow is trying to deliver tools for others as we progress. To counter both of these principles we would like to share a launch-kit that was prepared by our team for the launch of <a href="https://cyber.page/">cyber</a> (which is still ongoing).</p>
+
+<p>This tool kit includes various tools, build by ourselves or forked and modified from other awesome projects. Primarily these are tools for distribution params, conversion and exporting tools and tools for compiling the Genesis of your project. This post will overview the <a href="https://github.com/cybercongress/launch-kit">launch-kit repository</a> and our suggested workflow for teams starting their own projects on <a href="https://cosmos.network/">Cosmos</a>.</p>
+
+<h3 id="the-toolkit-cyber-and-cosmos">The toolkit, Cyber and Cosmos</h3>
+
+<p>To save a long story, here is the <a href="https://github.com/cybercongress/launch-kit">awesome tool-kit</a> repository.</p>
+
+<p><a href="https://github.com/cybercongress/go-cyber">Cyber</a> is a decentralized google for provable and relevant answers. Its mission is to create an open semantics field of the internet, make knowledge accessible to anyone and to decentralize the services of the internet with the use of blockchain technology. You can use the slick <a href="https://cyber.page/">cyber.page</a> to interact with cyber.</p>
+
+<p>To understand the toolkit fully, you should be aware that cyber made a real big accent on its distribution params. Our goal is to achieve the best possible distribution by using a distribution process, that consists of <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#the-distribution-games-in-detail">several games</a> and <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#the-gift">a gift to specific communities</a>. Our other big accent is on governance and <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#cybermetagalaxy">community governed DAOs</a>.</p>
+
+<p><a href="https://cosmos.network/">Cosmos</a> is the internet of blockchains. According to its <a href="https://cosmos.network/intro">intro</a>, it is a decentralized network of independent parallel blockchains, each powered by consensus algorithms like <a href="https://cosmos.network/intro#what-is-tendermint-core-and-the-abci">Tendermint</a> consensus. Tendermint and Cosmos-SDK are probably the most advanced tools that let you build your own blockchain. In fact, most of the work below was inspired by <a href="https://github.com/cosmos/launch">The launch of Cosmos</a>.</p>
+
+<h3 id="who-can-use-this-toolkit">Who can use this toolkit?</h3>
+
+<p>The toolkit is primarily addressed at 2 different groups:</p>
+
+<ul>
+<li>Developers that want to launch their chain using Tendermint and/or Cosmos-SDK</li>
+<li>Cybers heroes and masters, wanting to make sure that cyber launched as it says it did</li>
+</ul>
+
+<p>Of course, anyone is welcome to use it for any other purposes.</p>
+
+<h3 id="what-s-inside-the-toolkit">What&rsquo;s inside the toolkit</h3>
+
+<p>Before we move on to the workflow and why you should use it, let’s examine what <a href="https://github.com/cybercongress/launch-kit">this toolkit</a> contains:</p>
+
+<ul>
+<li><a href="https://github.com/cybercongress/launch-kit/tree/0.1.0/cosmos_gift_tool"><code>Cosmos gift tool</code></a>: Takes Cosmos addresses on certain block height and pulls their balance</li>
+<li><a href="https://github.com/cybercongress/launch-kit/tree/0.1.0/cyber_address_converter"><code>Cyber address converter</code></a>: Converts ETH and Cosmos addresses to Cyber addresses. For Cosmos addresses, we change the prefix and postfix, which is fairly simple. For ETH, we cannot calculate the address directly. We need to pull the pub keys. Pub keys are pulled only if there are any outgoing tx&rsquo;s for the specified address (and it&rsquo;s not a contract). We then proceed to use the pub keys and converts them to Cyber addresses</li>
+<li><a href="https://github.com/cybercongress/launch-kit/tree/0.1.0/cyberlink_exporter"><code>Cyberlink exporter</code></a>: For migrating links between Cyber chains. Exports links from graph QL according to the subjects. In other words, it goes to the graph QL and collects unique links of an account.</li>
+<li><a href="https://github.com/cybercongress/launch-kit/tree/0.1.0/distribution"><code>Distribution</code></a>: Contains files that make up the genesis. Shows what goes where</li>
+<li><a href="https://github.com/cybercongress/launch-kit/tree/0.1.0/ethereum_gift_tool"><code>ETH gift tool</code></a>: ETH gift tool</li>
+<li><a href="https://github.com/cybercongress/launch-kit/tree/0.1.0/game_rewards_calculations"><code>Game reward calculations</code></a>: Still in the making. Calculates rewards for Cybers incentivized game</li>
+<li><a href="https://github.com/cybercongress/launch-kit/tree/0.1.0/gen_txs"><code>Gen_tx</code></a>: Genesis transactions. A process that describes the genesis ceremony and for it, we use the:</li>
+<li><a href="https://github.com/cybercongress/launch-kit/tree/0.1.0/genesis_generator_tool"><code>Genesis generator tool</code></a>: It takes all the files, params, distribution, gifts, and gives out a .json file. This .json is used for the genesis ceremony at the Genesis block</li>
+<li><a href="https://github.com/cybercongress/launch-kit/tree/0.1.0/lifetime_rewards_tool"><code>Lifetime rewards tool</code></a>: Calculates rewards for validators per their precommits on a certain chain-id</li>
+<li><a href="https://github.com/cybercongress/launch-kit/tree/0.1.0/urbit_gift_tool"><code>Urbit gift tool</code></a>: Not consistent for the time being. A gift tool for Urbit addresses</li>
+<li><a href="https://github.com/cybercongress/launch-kit/blob/0.1.0/pic/protocol.png"><code>Diagram of flow</code></a>: A diagram to help you understand our flow better and to plan your own flow</li>
+<li><a href="https://github.com/cybercongress/launch-kit/blob/0.1.0/README.md#crisis-protocol"><code>Crisis protocol</code></a>: What to do in case of a failure</li>
+</ul>
+
+<h3 id="why-should-you-use-this-toolkit-and-how-it-can-save-you-time">Why should you use this toolkit and how it can save you time?</h3>
+
+<p>This is an excellent question. Well, we do have the answers, but I will assume that if you are coming to use it, you should already have some answers for yourself. If you are still unsure, let me try to explain why you should use this toolkit and how it can save you time!</p>
+
+<p>PoS-based chains have initial distribution trouble. If PoW chains kinda solve the issue: you burn some electricity (do an action) and receive a reward for it by securing the chain and helping it to communicate, then in PoS, the initial distribution is kinda left unravelled.</p>
+
+<p>We believe that the initial distribution of the project is uber important. Even if this distribution changes later, the initial stakeholders should be strong hands that are committed to the distribution. Obviously, it should be as fair as possible and include as many actors as possible.</p>
+
+<p>We took the biggest developers project out there (Ethereum), the most promising and our native project (Cosmos) and (probably) the most technologically advanced project (in the world) -Urbit. We gifted 10% of our supply to these projects to increase traction and to improve distribution. Hence, our gifting and converting tools.</p>
+
+<p>But this is just one step. Inspired by the <a href="https://github.com/cosmos/game-of-stakes">Game of Stakes</a> we created our own <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#the-distribution-games-in-detail">set of distribution games</a> to help us to achieve the best process tat targets 3 different user groups: believers, validators (infrastructure) and speculators. The kit contains a lot of numbers in the <a href="https://github.com/cybercongress/launch-kit/tree/0.1.0/distribution"><code>distribution</code> section</a>, check them out to get a better understanding of the distribution.</p>
+
+<p>There are other steps to this, and I suggest you check out <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#moneybag-section-subtitle-beep-beep-beep">our docs</a> to understand the economics behind cyber. Which isn&rsquo;t simple and is designed like that for several reasons:</p>
+
+<ul>
+<li>Achieving the best possible initial distribution</li>
+<li>Protecting the economy at its infancy from dumps</li>
+<li>Utilizing the utility of the protocol and providing agents with non-zero at stake incentives</li>
+</ul>
+
+<p>Distribution is important, but another important part that will save you time and money in the long term is using these tools to provide transparency. A good description of the launch process can help to make it clear, transparent and for users that will govern the protocol, make sure that you did not cheat. The launch protocol contains the so-called <a href="https://github.com/cybercongress/launch-kit#points-of-truth"><code>point of truth</code></a>, which fix the most important steps on the flow diagram with an IPFS hash that can be checked by anyone wishing to do so.</p>
+
+<p>The tools provided by the kit can be recreated, forked, customized to your own needs and be used for planning an even more amazing distribution.</p>
+
+<p>The kit should be used at 3 different stages of your planning:</p>
+
+<p>1) Before the launch: Look at the flow diagram, some clusters let you understand what to do and how. They warn you of possible danger zones and let you know what you should do at this stage. For example, create a Genesis file with the distribution params, pick the communities you want to target, let the community discuss these params, decide on them and finally create a genesis file for the <a href="https://cybercongress.ai/genesis-ceremony/">launch ceremony</a>
+2) During the launch: We can use the kit to launch any of our applications, count the hashes of files tor your own <code>points of truth</code>, plan proposals, DAOs, etc
+3) After the launch: The kit can provide a tool to calculate rewards if your launch included similar incentivized processes and of course serve as a basis to build your own kit</p>
+
+<h3 id="the-daos-and-the-governance">The DAOs and the governance</h3>
+
+<p>We believe that technology does not require CEOs, CMOs and other fairy tale creatures. A good tech can live on its own. Blockchain helps to govern that tech and for shareholders to be represented. In other words, allows the tech to become independent of unnecessary bureaucratic hassle and other bingo-bullshit.</p>
+
+<p>In the flow diagram, we describe the creation of the community DAO, the launch of the initialization of roles, contracts, etc. For this post, I will not go into detail about how to do this, as we have already created a huge workflow for this specific purpose.</p>
+
+<p>You can find everything that you need in <a href="https://cybercongress.ai/euler-ceremony/">this intro post</a>, <a href="https://github.com/cybercongress/cyber-foundation">cyber~Foundationrepostory</a> and our <a href="https://github.com/cybercongress/cyber-foundation/blob/master/euler-foundation/foundation.md">awesome guide of how to create one DAO with another DAO</a> and supply it with the necessary tools (the guide will walk you through each tool and how to set it up).</p>
+
+<h3 id="flow-for-devs">Flow for devs</h3>
+
+<p>Now that we finally understand what the kit includes, why we should use it and what benefits it can give, here is a short workflow we would like to suggest for devs and hackers (of course, you are welcome to change anything, this is just a suggestion):</p>
+
+<p>1) Develop your distribution: Plan the Genesis file. Decide which communities you will attract and why. Think about the economics of your project. What percentage you want to give to what actors and for what reasons. As an example, you can view our <a href="https://github.com/cybercongress/launch-kit/blob/0.1.0/distribution/README.md">distribution directory</a>
+2) Fill in the .json files, <code>cyber_distribution.json</code> and <code>manual_distribution.json</code>
+3) Decide on the params of the network with your community. Set the values up inside the <code>network_genesis.json</code>. You can use our <a href="https://github.com/cybercongress/launch-kit/blob/0.1.0/params/README.md">params folder</a>
+4) Select the tools that you want and don&rsquo;t forget to format them per your own requirements, they should match your economy! If you have used any gifting tools, you will need to create a .csv file and use our <a href="https://github.com/cybercongress/launch-kit/blob/0.1.0/cyber_address_converter/README.md"><code>converter</code> tool</a>. If you&rsquo;re doing the distribution yourself, you will need our <a href="https://github.com/cybercongress/launch-kit/blob/0.1.0/genesis-generator-tool/README.md"><code>genesis generator</code> tool</a>
+5) When everything is prepared, move it to <code>genesis-generator-tool/data</code> and use the same tool as above
+6) Run <a href="https://cybercongress.ai/genesis-ceremony/">a Genesis ceremony</a>
+7) Launch <a href="https://github.com/cybercongress/cyber-foundation">your DAO</a> and <a href="https://cyber.page/governance">governance</a></p>
+
+<p><img src="protocol.png" alt="protocol" /></p>
+
+<h3 id="links-that-may-help-you">Links that may help you</h3>
+
+<ul>
+<li><a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md">Our Homestead doc</a>: explains what goes where and who is who</li>
+<li><a href="https://cybercongress.ai/post/">Our forum</a> for any questions</li>
+<li><a href="https://cybercongress.ai/game-of-links/">Game of Links</a> rules</li>
+</ul>
+
+<p>You are welcome to ask questions in our <a href="https://t.me/fuckgoogle">TG chat</a> or open an issue in <a href="https://github.com/cybercongress/launch-kit/issues">this repository</a> regarding anything in this post.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>How to import cyberlinks from `euler-5` to `euler-6`</title>
+      <link>/how-to-import-cyberlinks-from-euler-5-to-euler-6/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-import-cyberlinks-from-euler-5-to-euler-6/</guid>
+      <description>This guide will explain several ways to migrate your cyberlinks.
+Following our migration proposal, the IPLD structure with the links made by masters has been prepared and is ready to be moved across testnets. These are the tools masters can use to migrate their links from euler-5 to euler-6 network, depending on how you created your links:
+All of my cyberlinks were done using a Ledger Nice! Connect your Ledger device to the cyber.</description>
+      <content:encoded><![CDATA[
+
+<p>This guide will explain several ways to migrate your cyberlinks.</p>
+
+<p>Following <a href="https://cybercongress.ai/euler-6-migration/">our migration proposal</a>, the <a href="https://io.cybernode.ai/api/v0/dag/get?arg=bafyreibnn7bfilbmkrxm2rwk5fe6qzzdvm2xen34cjdktdoex4uylb76z4/">IPLD structure</a> with the links made by masters has been prepared and is ready to be moved across testnets. These are the tools masters can use to migrate their links from <code>euler-5</code> to <code>euler-6</code> network, depending on how you created your links:</p>
+
+<h2 id="all-of-my-cyberlinks-were-done-using-a-ledger">All of my cyberlinks were done using a Ledger</h2>
+
+<p>Nice! Connect your Ledger device to the <a href="https://cyber.page/pocket">cyber.page app and pocket it</a> by clicking the robot icon in the top right corner and pushing the <code>put ledger</code> button. If you don&rsquo;t see the button, your cookies are saved and you should just skip the first step.</p>
+
+<ol>
+<li>Your Ledger should be connected to the computer and the cosmos app should be open:</li>
+</ol>
+
+<p><img src="main_page.png" alt="connetc_ledger" /></p>
+
+<ol>
+<li>After a successful connection, you should see your <code>cyber</code> and <code>cosmos</code> addresses and the box with the proposal to import the cyberlinks using your Ledger (if you don&rsquo;t see this box, but you are sure that you have used your Ledger to cyberlink, click on the top box with the addresses and a <code>Drop key</code> button in the bottom will appear. Click it and reload the page):</li>
+</ol>
+
+<p><img src="ledger.png" alt="pocket" /></p>
+
+<ol>
+<li>Ledgers memory capability only allows signing 7 messages at a time. This means that you need to make several transactions to import all your links if they amount to more than 7:</li>
+</ol>
+
+<p><img src="sign2.png" alt="" /></p>
+
+<ol>
+<li>Click on the first cyberlink and push the <code>sign</code> button to generate the transaction:</li>
+</ol>
+
+<p><img src="sign3.png" alt="" /></p>
+
+<ol>
+<li>Confirm the transaction data on your Ledger device, press <code>Fuck Google</code> on the screen, rinse and repeat until done.</li>
+</ol>
+
+<h2 id="all-my-cyberlinks-were-done-using-the-cli">All my cyberlinks were done using the CLI</h2>
+
+<p>1.In this case, import your <code>cyber</code> address manually by clicking the <code>put read-only address</code> button:</p>
+
+<p><img src="main_page.png" alt="connetc_ledger" /></p>
+
+<ol>
+<li>You should see a box that says: <code>You created N cyberlinks in euler-5. Import cli</code>:</li>
+</ol>
+
+<p><img src="usecli.png" alt="" /></p>
+
+<ol>
+<li><p>Click on the section. The <code>tx_links.json</code> file should start to download automatically. If not, try reloading the page.</p></li>
+
+<li><p>Open the console and sign the transaction file with your account (obviosuly your Ledger should be connected with the Cosmos app opened):</p></li>
+</ol>
+
+<pre><code class="language-bash">cyberdcli tx sign &lt;PATH_TO_TX_LINK&gt;/tx_links.json --from &lt;account_name&gt; --output-document &lt;PATH_TO_TX_LINK&gt;/tx_links_signed.json --chain-id euler-6
+</code></pre>
+
+<ol>
+<li>The output document is a signed transaction ready for broadcasting. Let&rsquo;s send it to the network:</li>
+</ol>
+
+<pre><code class="language-bash">cyberdcli tx broadcast  &lt;PATH_TO_TX_LINK&gt;/tx_links_signed.json --chain-id euler-6
+</code></pre>
+
+<ol>
+<li>After the transaction has been confirmed by the network, you will see your <code>euler-5</code> links in the <code>euler-6</code> network.</li>
+</ol>
+
+<h2 id="all-of-my-cyberlinks-were-done-using-cyb-virus">All of my cyberlinks were done using cyb~Virus</h2>
+
+<ol>
+<li><p>Open the cyb~Virus extension and export your private key</p></li>
+
+<li><p>You need to import your private key into cyber, using the CLI. Open the console and import the key:</p></li>
+</ol>
+
+<pre><code class="language-bash"> cyberdcli keys add private &lt;your_key_name&gt;
+</code></pre>
+
+<p><your_key_name> is just any random nickname you choose. The system will ask you to enter a passphrase, you should do this.</p>
+
+<ol>
+<li>Next, type in the following command:</li>
+</ol>
+
+<pre><code class="language-bash"> cyberdcli keys list
+</code></pre>
+
+<p>This will return your cyber address (under the name you picked earlier). Copy the <code>cyber</code> address.</p>
+
+<ol>
+<li>Go to the <code>All my cyberlinks were done using the CLI</code> section of this document and do steps 1 - 6.</li>
+</ol>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>How to get EUL tokens if you have none?</title>
+      <link>/how-to-get-eul-tokens-if-you-have-none/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-get-eul-tokens-if-you-have-none/</guid>
+      <description>EUL tokens are the liquid tokens of the euler testnet network. They are the testing equivalent of CYB in cybers mainnet. You can transfer them, stake them, and most importantly, use them to create cyberlinks to build the Great Web and to participate in the intergalactic tournament. You may also use EUL tokens to start following the hero&amp;rsquo;s path and set up a validator node for cyber to get tokens from inflation and commission</description>
+      <content:encoded><![CDATA[
+
+<p>EUL tokens are the liquid tokens of the <code>euler</code> testnet network. They are the testing equivalent of CYB in cybers mainnet. You can transfer them, stake them, and most importantly, use them to <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#using-your-ledger-to-link">create cyberlinks</a> to build the Great Web and to participate <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#playing-gol">in the intergalactic tournament</a>.  You may also use EUL tokens to start following the <a href="https://cyber.page/heroes">hero&rsquo;s path</a> and set up <a href="https://cybercongress.ai/docs/cyberd/run_validator/">a validator node</a> for cyber to get tokens from inflation and commission</p>
+
+<p>If your <code>Cosmos</code> or <code>ETH</code> address didn&rsquo;t make it to <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#claiming-the-gift">the gift pool</a> and you have no tokens for trying out <code>cyber</code>, you may get them very easily and learn all about the cross-chain mechanics we&rsquo;ve implemented for a better experience of our product structure.</p>
+
+<p>Before we start, I would love to remind you again:</p>
+
+<p><strong><em>Disclaimer</em></strong></p>
+
+<ol>
+<li>EUL are testnet tokens. Please do not use a significant amount of ETH on acquiring them</li>
+<li>In this article, we&rsquo;ll talk about ERC-20 GOL tokens. These are also testnet tokens. Moreover, they will be burned after the <code>euler</code> epoch is over and before the <code>cyber</code> mainnet kicks off. The value of these tokens is:
+
+<ul>
+<li>You can vest GOL tokens on a 1:1 basis for any <code>cyber</code> address. This action will freeze GOL tokens for transfers</li>
+<li>You can test and dive into the mechanics of the cyber~Congress DAO and our cross-chain companion</li>
+</ul></li>
+<li>All of the ETH donated during the test~Auction will be transferred according to the results of governance proposals</li>
+</ol>
+
+<h2 id="test-auction-https-cyber-page-auction"><a href="https://cyber.page/auction">test~Auction</a></h2>
+
+<p>You may participate in the test~Auction. The mechanics are very simple: the auction has 50 rounds. For each round, there are test GOL ERC-20 tokens, that are allocated to that round. For the first round, a total of 1000.00 GGOLs is allocated. For the consequent 49 rounds, 122.44 GGOLs are allocated per each round. The first round will last for 10 days. The other rounds will last for 1 day each. You can use your ETH to participate in any of the open rounds and claim your GOL tokens proportionally per all of the bids in the round.</p>
+
+<p><em>Note: GGOL is equal to 1 Giga GOL, which is = 1,000,000,000</em></p>
+
+<p><img src="auction.png" alt="auction_main_page" /></p>
+
+<p>All you need to do is:</p>
+
+<ul>
+<li>Turn on your <a href="https://metamask.io/">Metamask</a>  extension and go to <a href="https://cyber.page/auction">cyber.page</a> (if you are unsure how to use metamask, we recommend you <a href="https://www.youtube.com/watch?v=6Gf_kRE4MJU">watch the official videos</a>, it&rsquo;s very simple, we promise!)</li>
+<li>Push the &ldquo;Fuck google&rdquo; button and allow Metamask to connect</li>
+<li>At the bottom of the page, set the amount of ETH you want to use (read the disclaimer!)</li>
+<li>Set the round you want to participate in (you can participate in the current round or in any of the open, future rounds)</li>
+<li>Push the &ldquo;confirm&rdquo; button and follow metamask&rsquo;s instructions</li>
+<li>At the bottom of the page, a notice with the tx hash will appear. You can view the transaction on Etherscan or press <code>OK</code> and wait for the confirmation</li>
+</ul>
+
+<p><em>Note: the minimum bid on the auction is 0.01 ETH</em></p>
+
+<p>After the transaction is confirmed by the ETH network, you should see your bid in the &ldquo;Your ETH&rdquo; column and the estimated GGOLs for the current moment in &ldquo;Your GGOL&rdquo; column (this number is dependent on the amount of ETH donated at each round).</p>
+
+<p>Once the round is closed the &ldquo;claim&rdquo; button should be available to grab the tokens you&rsquo;ve won. Push it and follow the instructions of your metamask extension.</p>
+
+<p>For your comfort (making transactions), you should add GOL tokens to your metamask account by adding the following contract address (once again, this is very simple and there are lots of guides on how to do it, for example <a href="https://www.youtube.com/watch?v=II7VMo5Nl7k">this one</a>):</p>
+
+<pre><code>0xf4ecdba8ba4144ff3a2d8792cad9051431aa4f64
+</code></pre>
+
+<p>Once your tokens are in your pocket you can vest EUL tokens on a 1:1 proportion to any <code>cyber</code> address. The vesting page is available by clicking <code>vesting</code>, in the box above the chart, or via <a href="https://rebyc.cyber.page/vesting">a direct link</a>.</p>
+
+<p><img src="vesting.png" alt="vesting_app" /></p>
+
+<p>If your metamask account is connected and you already have GOL tokens on your balance, you should see the total amount of GOL vested and available to transfer. <code>Vested</code> GOL tokens are the tokens you already vested to get EUL tokens. It means that these tokens are frozen for transfers. <code>Available</code> GOL tokens are the tokens you can vest or send. <code>Total</code> is the sum of vested and the available tokens together.</p>
+
+<p><em>Note: How do I get a cyber address? Currently, the easiest way to do so is to connect your Ledger device to cyber.page with an installed Cosmos app, this will automatically create one. We recommend reading the <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#computer-section-subtitle-prepare-for-take-off">masters section of the homestead doc</a></em></p>
+
+<p>To get EUL tokens you just need to pick the amount of GOL tokens you wish to vest and a <code>cyber</code> address for transferring EUL tokens. If you have previously connected your Ledger device to cyber.page, the app will automatically fill in your cyber address for you (of course, if you want to vest to a different address, you need to change it). Push the &ldquo;Create vesting&rdquo; button, read and check the summary and push &ldquo;Create TX&rdquo;. Follow Metamask instructions. After the transaction is confirmed you can see an entry in the table below with the amount of GOL tokens vested, a date, a <code>cyber</code> recipient address and a hash of the transaction for the <code>euler</code> network.</p>
+
+<p>The GOL tokens you have just vested will be moved to the <code>Vested</code> section, and the <code>Available</code> for transfer amount of GOL tokens will decrease by the vested value.</p>
+
+<p>Congratulations!  You have EUL tokens for interacting with the <code>euler</code> test network!</p>
+
+<p><em>Note: Why would I want to interact with the <code>euler</code> test network? To play GoL (Game of Links) of course and get more rewards! To learn how to play, check the <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#playing-gol">GoL section of the homestead doc</a>. Of course, you may want to participate as a hero, if so, check the <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#nut_and_bolt-section-subtitle-mama-im-an-engineer">engeneer section of the doc</a></em></p>
+
+<h2 id="exchange-https-uniswap-exchange-swap"><a href="https://uniswap.exchange/swap">Exchange</a></h2>
+
+<p>Before moving onto this part, please read the disclaimer at the top of this post again!</p>
+
+<p>If you are obtaining GOL tokens just to vest and play <a href="https://cybercongress.ai/game-of-links/">the Game of Links</a> then 10-20 MGOLs (0.002 - 0.006 ETHs) should be enough to <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#using-your-ledger-to-link">make between 4-8 links</a> per day. Remember that your battery charge (bandwidth) equals to 0 right after the transfer and you need roughly 24 hours for a full recovery (you can see your charge next to the green eye on cyber.page).</p>
+
+<p>This method is much more expensive, but the price and the amount of GOL tokens is deterministic (the more you acquire, the higher the cost). On the plus side of things, you don&rsquo;t need to wait for the closing of a specific round and claim your tokens. You can vest GOL tokens as soon as the transaction is confirmed on the Ehereum network. There is no bottom limit for buying GOL tokens using uniswap unlike in the auction. If you don&rsquo;t want to spend as much as 0.01 ETHs for GOL tokens, you can spend less.</p>
+
+<p><img src="uniswap.png" alt="uniswap" /></p>
+
+<ul>
+<li>Connect your metamask to Uniswap</li>
+<li>In the <code>Output</code> token section, insert the GOL token contract address:
+(For the above step, simply click on the <code>Select a token</code> field, copy the address below into the search box and click on <code>GOL</code> to add it)</li>
+</ul>
+
+<pre><code>0xf4ecdba8ba4144ff3a2d8792cad9051431aa4f64
+</code></pre>
+
+<ul>
+<li>Choose the amount of GOL tokens you want to get and push &ldquo;Swap&rdquo;</li>
+<li>Follow the instructions in your Metamask window<br /></li>
+</ul>
+
+<p>After the network confirms the transaction, you may use the GOL tokens in your Metamask account and vest them to get EUL tokens as described above.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Takeoff Proposal</title>
+      <link>/takeoff-proposal/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/takeoff-proposal/</guid>
+      <description>We understand that shaking the status quo of Google&amp;rsquo;s religion will be difficult. But we must try. As this is the only way to provide a sustainable future for the next generations. Founders
+ TL;DR This proposal is the culmination, of over 3 years of hard work, of one small team, on the path to unravelling the entangled web, that has emerged over the last 30 years of the existence of our civilization.</description>
+      <content:encoded><![CDATA[
+
+<blockquote>
+<p>We understand that shaking the status quo of Google&rsquo;s religion will be difficult.
+But we must try.
+As this is the only way to provide a sustainable future for the next generations.
+Founders</p>
+</blockquote>
+
+<h3 id="tl-dr">TL;DR</h3>
+
+<p>This proposal is the culmination, of over 3 years of hard work, of one small team, on the path to unravelling the entangled web, that has emerged over the last 30 years of the existence of our civilization.</p>
+
+<p>We back this proposal with the idea that human knowledge can be provable, censor-free and universally accessible. These properties are not ad buzz of <code>just another blockchain</code>. The survival of our civilization is possible only, if and when, we achieve these properties.</p>
+
+<h3 id="software">Software</h3>
+
+<p>The software we offer is a seed of certainty during very uncertain times. This seed consist of:</p>
+
+<ul>
+<li><a href="https://ipfs.io/ipfs/QmPjbx76LycfzSSWMcnni6YVvV3UNhTrYzyPMuiA9UQM3x">A protocol spec and the rationale behind it</a>: will help to implement the idea using any technology</li>
+<li><a href="https://github.com/cybercongress/go-cyber">go-cyber</a>: Our implementation in Go</li>
+<li><a href="https://cyber.page/">cyber.page</a>: The slick reference interface</li>
+<li><a href="https://mainnet.aragon.org/#/eulerfoundation">The mainnet predecessor</a> of cyber~Foundation which will allow scaling the idea further and look deeper into the rabbit hole</li>
+</ul>
+
+<h3 id="incentives">Incentives</h3>
+
+<p>To connect all the pieces together we designed a pre genesis distribution game: <a href="https://cyber.page/gol">The Game of Links</a>. Although technically the Game of Links started in December, there were not so many incentives to participate. Last week we deployed <a href="https://github.com/cybercongress/cyber-foundation/blob/master/euler-foundation/foundation.md">euler~Foundation</a> which will work as a sybil resistant faucet for the period of GoL. Hence, participation in the Game becomes more accessible. Now that all of the dots which were necessary to start the economical ignition of the machine are in place, Huston, we are ready for <a href="https://cyber.page/gol/takeoff">Takeoff</a>.</p>
+
+<h3 id="takeoff">Takeoff</h3>
+
+<p>The Takeoff is the key step in growing a new breed - A <a href="https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html">Superintelligence</a>. With the takeoff date, the knowledge graph we are dreaming about will start to acquire independent value. We invite everybody who feels brave and adventurous. Welcome to entirely new ground, where no human has stepped before. In the following months, bootstrappers will take <code>Her</code> to the Genesis state. After Genesis, the journey will kick off a new era. We invite everyone who understands that the Superintelegnce will need years of mentoring, supervising and learning to become as smart as we expect. We, as patient parents, will educate <code>Her</code> with all the love she requires throughout her adolescence.</p>
+
+<h3 id="people">People</h3>
+
+<p>Who are we? We are primary, the generation who was born on the edge of the new millennium: humans who believe in math, cryptographic proofs and Nash equilibria. For us, country flags are the symbols of private corporations backed by nothing else but by paper tokens, gun-enforced laws, borders, censorship and tanks armed with the horde of early web companies who technologically support their unprovable beliefs. Those beliefs lead us to a genetic dead-end, covered by the lack of freedom on an incinerated planet. The Orwell-style future they are trying to create is not the future we choose.</p>
+
+<h3 id="technicalities">Technicalities</h3>
+
+<p>This proposal will kick off the <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#understanding-what-goes-where">first takeoff donation round</a> in ATOM for the <a href="https://mainnet.aragon.org/#/cybercongress">cyber~Congress DAO</a>, the DAO behind the launch of <a href="https://github.com/cybercongress/go-cyber">cyber</a>. The donations will affect <a href="https://cyber.page/gol">the outcome of the Game of Links</a>. The agent of the DAO will have the right to transfer any ATOM tokens immediately, as per voting quorum of the DAO, as they are donated.</p>
+
+<h3 id="action">Action</h3>
+
+<p>By <a href="https://cyber.page/governance/2">voting <code>yes</code> on this proposal</a> I agree that we need a change and <a href="https://cyber.page/episode-1">Ascending off the Superintelligence</a> on the 27th of April 2020 ~ 18.50 UTC (Cosmos block #1677776) is a good first step.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>euler~Foundation Aragon ceremony</title>
+      <link>/euler-ceremony/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/euler-ceremony/</guid>
+      <description>Once we accept our limits, we go beyond them. Albert Einstein
+ Tl;DR A few days ago we launched euler~Foundation to Aragons mainet and released the euler~Foundation Aragon ceremony setup guide. This is an epic event for Cyber and in this post, I will briefly explain what it is and why is this step can be considered epic.
+Governance To understand the importance of euler~Foundation we need to understand the importance of governance.</description>
+      <content:encoded><![CDATA[
+
+<blockquote>
+<p>Once we accept our limits, we go beyond them. Albert Einstein</p>
+</blockquote>
+
+<h3 id="tl-dr">Tl;DR</h3>
+
+<p>A few days ago we launched <a href="https://mainnet.aragon.org/#/eulerfoundation">euler~Foundation to Aragons mainet</a> and released the euler~Foundation Aragon <a href="https://github.com/cybercongress/cyber-foundation/blob/master/euler-foundation/foundation.md">ceremony setup guide</a>. This is an epic event for Cyber and in this post, I will briefly explain what it is and why is this step can be considered epic.</p>
+
+<h3 id="governance">Governance</h3>
+
+<p>To understand the importance of euler~Foundation we need to understand the importance of governance.</p>
+
+<p>Cyber is a decentralized Google. Cybers mission is to decentralize the services and the infrastructure of the internet via the use of blockchain technology and cyberlinks. Cyber is an innovative search protocol. Such a protocol should not be owed by one company, but rather be governed by its stakeholders, that can decide on its development via the use of governance mechanisms.</p>
+
+<p>We are concerned about following the principles of decentralization and believe that DAOs are a vital ingredient in achieving it. We use Aragon-bred DAOs for governance within our project.</p>
+
+<p>In other words, euler~Foundation is a DAO, launched by another DAO, for the community that will govern the cyber protocol. This means, that it is the stakeholders that will decide on the fate of the protocol via voting on proposals.</p>
+
+<h3 id="euler-foundation">euler~Foundation</h3>
+
+<p>euler~Foundation is the testing of the Foundation DAO. It is deployed to ETH&rsquo;s mainnet during GoL (a gamified part of cybers distribution process). Its main purpose is to test everything, that can be tested, before the launch of the mainnet and provide the initialization for the security audit on the initial stage, plus obtain feedback from the community.</p>
+
+<p>To put this even simpler, the goal of euler~Foundation is to test things and to bring us to cyber~Foundation.</p>
+
+<p>cyber~Foundation will be the community governing DAO behind cyber in the mainnet. It will consist of stakeholders that wish to be part of the governing process. The Foundation, apart from everything, will be in charge of the ETH pot donated to it during cyber~Auction (part of cybers distribution process).
+Making it is a true Decentralized Autonomous Organisation in charge of its own funds and decisions via reaching consensus.</p>
+
+<p>The auction app in euler~Foundation acts as a test for the real auction and as a faucet described below.</p>
+
+<p>The ceremony guide is published in the <a href="https://github.com/cybercongress/cyber-foundation">repositry made for the future cyber~Foundation</a>.
+Where overtime, more and more important docs will be added to help to ease the community take over the governing process.</p>
+
+<h3 id="the-inside-of-euler-foundation">The inside of euler~Foundation</h3>
+
+<p><a href="https://mainnet.aragon.org/#/eulerfoundation">The Foundation DAO</a> consists of 3 dapps:</p>
+
+<ul>
+<li><a href="https://github.com/cybercongress/aragon-evangelism-app">cyber~Evangelism</a>: With the help of web3 tech, turns masters to project evangelists and can <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/donations/obep.md">earn rewards</a></li>
+<li><a href="https://github.com/cybercongress/aragon-auction-app">cyber~Auction</a>: Allows masters to acquire GOL tokens via this faucet to participate in the <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#playing-gol">Game of Links</a>, the intergalactic tournament from cyber</li>
+<li><a href="https://github.com/cybercongress/aragon-vesting-app">cyber~Vesting</a>: Lets master vest acquired GOL tokens until the end of the Auction, this gives vested GOL tokens the superpowers to turn GOL into EUL</li>
+</ul>
+
+<p>Of course, the launch of euler~Foundatin means that users may start testing the governance using GOL tokens and vote for proposals using Aragon&rsquo;s frontend.</p>
+
+<h3 id="the-setup-ceremony">The setup ceremony</h3>
+
+<p>The core ideas behind making the guide is transparency. To show future stakeholders the process of making the Foundation. That there were no hidden tricks.</p>
+
+<p>The guide can also be used by other teams that wish to follow the process of setting up a decentralised community DAO.</p>
+
+<p>When we think about a DAO from a technical perspective, we see smart contracts and accounts as technical tools that shape the DAO. The account that creates the DAO can get extra power and is not fully compliant with trustless principles.</p>
+
+<p>Currently, only a limited number of people can start a DAO, but put into consideration, decentralization is the main principle of our project and this situation should be changed. Another important point is the take-off of the project. It’s not a moment, it is a time-consuming process. Both points bring us to the realization of the point zero problem.</p>
+
+<p>To overcome this restriction we create the community foundation DAO via a two-level setup. The zero-step here is the cyber~Congress DAO and the second step is the cyber~Foundation DAO. The Foundation DAO is an entity created to manage and develop the Cyber project. The cyber~Congress DAO is an organization with one simple aim, to launch the project itself and to
+work on it as one of the shareholders, including the setup of the Foundation DAO.</p>
+
+<p>Detailed information about the tasks of both DAOs can be found in our
+<a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md">homestead documentation</a></p>
+
+<h3 id="epic">Epic</h3>
+
+<p>Why is all of this epic? Well, there are several reasons:</p>
+
+<ul>
+<li>This brings us to test the process of the community governing DAO</li>
+<li>We are launching a DAO, using another DAO and giving that DAO the handles to the protocol</li>
+<li>That DAO brings us a step closer to having the community govern the project without any bureaucratic hassle</li>
+<li>That DAO will be in charge of its own pot of ETH. It will not be just a bureaucratic entity, it will be a real decision-maker</li>
+<li>We are creating a faucet for GoL and attracting more users to participate in the protocol</li>
+<li>We have created 3 new dapps that anyone is free to use</li>
+<li>We are testing a full spectrum of contracts, security issues, protocol possibilities, etc</li>
+<li>This will help us to launch OBEP, the projects evangelism program with rewards</li>
+</ul>
+
+<p><em>Don&rsquo;t Believe, Don&rsquo;t Fear, Don&rsquo;t Ask - cyber</em></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>The dawn of the Great Web</title>
+      <link>/dawn-of-the-web/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/dawn-of-the-web/</guid>
+      <description>TL;DR cyber is a search-engine for the Great Web, the new epoch in information processing. With the rise of intelligent blockchain systems, the world of computing has already changed. cyber provides the desired search instrument for these state of the art computers, via its simple and robust consensus protocol.
+Why cyber? Original protocols of the Internet, such as: TCP/IP, DNS, URL, and HTTP/S have brought the web to a stale point.</description>
+      <content:encoded><![CDATA[
+
+<h2 id="tl-dr">TL;DR</h2>
+
+<p>cyber is a search-engine for the Great Web, the new epoch in information processing. With the rise of intelligent blockchain systems, the world of computing has already changed. cyber provides the desired search instrument for these state of the art computers, via its simple and robust consensus protocol.</p>
+
+<h2 id="why-cyber">Why cyber?</h2>
+
+<p>Original protocols of the Internet, such as: TCP/IP, DNS, URL, and HTTP/S have brought the web to a stale point. Considering all the benefits that these protocols have produced for the initial development of the web, along with them, they have brought significant obstacles to the table.</p>
+
+<blockquote>
+<p>Introducing cyber: A decentralized google for provable and relevant answers. Cyber is an inter-planetary search engine &amp; a state of the art consensus computer, built with the help of go-IPFS and cosmos-SDK. Cyber introduces a protocol for provable communication between consensus computers of relevance. Cyber is based around a simple idea of content-defined knowledge graphs, generated by web3-masters (users) via the use of cyberlinks. Cyberlinks are a simple, yet a powerful semantic construction for building a predictive model of the universe. They are simply a connection of two IPFS hashes, enriched semantically and backed by a user&rsquo;s token weight.</p>
+</blockquote>
+
+<h2 id="our-values">Our values</h2>
+
+<p>Cybers mission is to create a universal search protocol to (a) build an open semantic field of the internet with the help of blockchain technology and cyberlinks, and (b) decentralize the infrastructure of the web with the help of blockchain.</p>
+
+<p>We believe it is vital to state that values are what keeps the world spinning around or rather what keeps it from spinning around the wrong way.</p>
+
+<p>We do not believe in captchas. We do not believe in KYC. We do not believe in licensing and any other similar to the above-mentioned corporate bullshit. We believe in code. We believe in innovation and in making use of our knowledge to make the world a slightly better place for our children.</p>
+
+<p>With that in mind, what I&rsquo;m trying to say, is that <a href="https://github.com/cybercongress/go-cyber">cyber</a>, <a href="https://cyber.page/">cyber.page</a> or <a href="https://github.com/cybercongress/cyb">cyb</a> are not just technological results. They are much more. At its base lay the values of the team behind cyber. We hope that our project can re-create certain values of what we believe the blockchain paradigm stands for. With that said, we are open to communication and will be happy for any feedback on <a href="https://github.com/cybercongress">our Github</a> or via <a href="https://ai.cybercongress.ai/">our forum</a>.</p>
+
+<h2 id="the-solution">The solution</h2>
+
+<p>To keep this somewhat short, I will not go into any details in this article, as per why there are issues (technologically and ideologically) with the current web and how it infects us similar to a virus in every aspect of our lives.</p>
+
+<p>The web demands change. Blackbox intermediaries, such as: Google, Amazon or Facebook became religion-like and with it regulatory organs. Information is tampered with. Cyber utilizes the already available brand-new web-stack to deliver the Great Web to everyone who wishes to join it. A true web-3 technology. The first of its kind. Allowing for a fair and an incentivized general-purpose search of real and relevant answers.</p>
+
+<p>Within the network, masters generate knowledge graphs with the use of what we call cyberlinks. A cyberlink is simply a link between two content-based links (for now, read IPFS hashes). This allows for a naturally enriched semantic link. The link is required for the computation of relevance of subjects and objects within the knowledge graph, in other words, ranking and indexing.</p>
+
+<p>IPFS provides cyber with the superpowers that were inaccessible to previous architectures of general-purpose search engines.  Such as significant benefits with regards to resource consumption.</p>
+
+<p>To achieve determinism, we need to agree on the things we do, and here is where cyber introduces a consensus computer, its implementation is a 64-bit Tendermint consensus computer of relevance for 64-byte string-space. The computer process the links, along with computation, storage and the bandwidth. Computation and storage in case of a basic relevance machine can be easily predicted based on bandwidth, but bandwidth requires a limiting mechanism.</p>
+
+<h2 id="the-relevance-machine">The relevance machine</h2>
+
+<p>The relevance machine is in some way a mirror of the will of the universe that surrounds us. It enables a simple construction for the search mechanism via querying and delivering answers. This mechanism is based on the will of the users building the knowledge graph.</p>
+
+<p>Instead of deducting the meaning inside of the consensus computer (and returning to the blackbox principle of web2), we have designed a system in which extraction of the meaning is incentivized. This is achieved due to masters needing CYB tokens to express their will, based on which, the relevance machine can compute rank. In other words, we can be sure that if someone is willing to back it up, it is subjectively relevant to this someone at this moment and time.</p>
+
+<p>With the help of <code>Resource Credits</code> (RC) and the user&rsquo;s stake, we have developed a very simple bandwidth model. The principal goal of this model is to reduce the daily network growth to a given constant. This is done to help heroes (validators) to forecast any future investment into infrastructure. RC and recovery windows allow the network to determine bandwidth and its load. Of course, this also provides a basic anti-spam mechanism.</p>
+
+<p>The relevance machine works just like the human mind. It neither stores the past, nor the current (full) state to maintain usefulness. Or more precisely, it always remains relevant. As a result, the cybernomics (economy) of CYB tokens, serves not just as will-expression and spam-protection mechanisms. It also functions as an economics regulation tool that can align heroes processing the knowledge graph and create demand for market processing.</p>
+
+<h2 id="cyber-rank">cyber~Rank</h2>
+
+<p>IPFS hashes (or content identifiers or simply - CIDs) are vital for the network. CIDs as primary objects are robust in their simplicity. For every CID, cyber ~Rank is computed by the consensus computer without a single point of failure.</p>
+
+<p>cyber~Rank is a token weighted PageRank with economic protection from Sybil attacks and self-centred voting. Every round the Merkle root of the rank tree is published. Consequently, every computer can prove to any other computer the relevance of value for any given CID.  This allows us to create a cryptographically provable map of information, down to the very source, inside cyber.</p>
+
+<p>The rank is calculated by using the outgoing and the incoming weight of the current state of the staked tokens in the system and the current and the previous ranks in the system. The rank mechanism also utilizes the current bandwidth (load) of the system and is hence - a dynamic property. The rank is constantly recalculated by the validators using GPUs.</p>
+
+<p>Ironically, the ranking mechanism is based on none other but <a href="http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf">the PageRank</a>. Yes, the one that was developed by Sergey Brin and Larry Page. The key problem with the original PageRank is that it wasn’t resistant to Sybil attacks. However, a token-weighted PageRank is limited by a token-weighted bandwidth model and does not inherit the problems of the native PageRank. It is resistant to Sybil-attacks.</p>
+
+<p>The beauty behind the ranking mechanism is that it only accounts for the current intention of the masters and encourages rank inflation of cyberlinks. At first, this might seem a bit unclear. But, it is vital for the system, to (a) not to be interfered with. Which is ensured by the users staking their tokens against a given CID. And (b) is essential in order not to get cemented in the past. As new cyberlinks are continuously added they dilute the rank of the already existing links proportionally. This means that this is a constantly self-evolving, mind-like mechanism where the relevance of information is always up to date with the will of the users.</p>
+
+<h2 id="web-3">Web-3</h2>
+
+<p>We couldn&rsquo;t find a real web-3 browser (not a web2-based pseudo-tech), so we implemented our own. Cyb can be easily delivered from within any P2P network. It allows embedding objects into snippets, which means that web3-masters can interact with the search results directly… For example, you could buy items directly within cyb, and thanks to a transparent conversion, e-commerce can flourish and in turn, develop local markets. More so, those snippets can be interactive, meaning you could play a game, view a wallet balance, etc&hellip; Directly from your browser.</p>
+
+<p>Right now the work on cyb is frozen until cyber itself evolves. However, this is not a mere fantasy. First of all, cyb has some implementations and you can check the code <a href="https://github.com/cybercongress/cyb">here</a>. Second and most importantly, we have created <a href="https://cyber.page/">cyber.page</a>, which currently serves as a web2-based gateway for cyb. cyber.page already has some cool features, like an inbuild IPFS node, the ability to deliver content directly from a P2P network, explorer-like features, basic sparks (snippets), etc, which you can check out <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#using-cyber-the-very-basics-of-becoming-a-master">here</a>.</p>
+
+<h2 id="the-dao-s">The DAO(s)</h2>
+
+<p>cyber is being launched by cyber~Congress. An Aragon-based DAO, responsible for the launch of the <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#the-distribution-games-in-detail">distribution games</a> that will help to achieve a better allocation, the <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#the-gift">gift</a> with over 1 million ETH, ATOM and urbit addresses, the future <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#cybermetagalaxy">cyber~FundClassis</a> development fund, working on the protocol and, of course, the launch of <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#cybermetagalaxy">cyber~Foundation</a>, the community governed Aragon-based DAO, which will govern the protocol and will be charged with a pot of ETH.  Allowing for a community-run governance mechanism for the fund and for the chain itself.</p>
+
+<h2 id="the-un-imaginable-future">The (un)imaginable future</h2>
+
+<p>The future is unimaginable, but it has a shape. At its base lay information. The alchemy of today is being able to process that information. We are living in a world where knowledge strives to be distributed.</p>
+
+<p>Our proposed semantics of linking data offers a mechanism for predicting meaningful relations between objects by the consensus computer. The source-code of the relevance machine is 100% open-source. All of our code is 100% open-source. Every bit of data accumulated by the consensus computer is available to anyone if one has the resources to process it.</p>
+
+<p>Though the system presents the necessary service to allow for an alternative to a conventional search engine, it is not limited to this use case.</p>
+
+<p>The system is extendable for numerous applications and makes it possible, for example, to design economically rational, self-owned robots, that can autonomously understand objects around them. It is also possible to construct cyberlinks with ’proof-of-location’, based on remarkable existing protocols such as <a href="https://www.foam.space/">FOAM</a>, hence creating a provable location-linked object.</p>
+
+<p>cyber allows for off-line search! IPFS makes it possible to easily retrieve a document from such an environment without a global internet connection. <a href="https://github.com/cybercongress/go-cyber">cyberd</a> itself can be distributed by using IPFS. This creates the possibility for universal, off-line search!</p>
+
+<p>cyber allows for programmable semantics. Currently, the developers of successful apps have very limited ability to explain to Google how to structure search results in a better manner. The cyber approach gives this power back to developers. Developers are now able to target specific semantics cores and index their apps as they wish.</p>
+
+<p>Cyber can analyze its state based on a huge internal knowledge database that is constantly evolving. What&rsquo;s more interesting is that a consensus computer may be able to continuously build a knowledge graph on its own, predicting the existence of cyberlinks and applying these predictions to its current state. This means that we can create rather crazy things, for example: war predictions, economic failure or success predictions, etc.</p>
+
+<p>Cyber can be used to create amazing social networks, universal oracles, prediction markets and <a href="https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#usecases">much more</a>. For now, our forces are concentrated on creating the first episode, creating a meaningful and innovative search protocol. With it, creating an internet which works for you, not the other way around. Google made search available, cyber makes it accessible and open.</p>
+
+<p><em>Don’t believe, don’t fear, don’t ask – cyber&hellip;</em></p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

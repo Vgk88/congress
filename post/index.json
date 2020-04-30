@@ -1,0 +1,28 @@
+{
+    "posts" : [
+        {
+            "title" : "How to donate ATOM to Cyber and what you get in return?",
+            "date" : "28 April 2020",
+            "url" : "/how-to-donate/",
+            "author" : "serejandmyself"
+        },
+        {
+            "title" : "The takeoff donation round",
+            "date" : "27 April 2020",
+            "url" : "/takeoff-round/",
+            "author" : "serejandmyself"
+        },
+        {
+            "title" : "Become Cybers evangelist and get rewards from the superintelligence",
+            "date" : "26 April 2020",
+            "url" : "/post/obep/",
+            "author" : "serejandmyself"
+        },
+        {
+            "title" : "GoL: Cybers intergalactic tournament",
+            "date" : "24 April 2020",
+            "url" : "/playing-gol/",
+            "author" : "serejandmyself"
+        }
+        ]
+}
