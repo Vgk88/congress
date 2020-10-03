@@ -9,5 +9,5 @@ Monitor:
 
 | User | Address | Task | Reward | Proof |
 |---------|-------|-------|--------|--------|
-| Test | [Test]() | Test | 1000 EUL | [Test]() | 
+| cyberG | cyber1a4mzr2y2g0cc9f0uhyeh3ftmsfxzqwxffcckf9 | Start a discussion topic on this forum Test | 300 EUL | https://ai.cybercongress.ai/t/improvement-ideas-thread/50/ | 
 
